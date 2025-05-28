@@ -1,0 +1,13 @@
+.DS_Store
+/experiments/models/__pycache__
+*.out
+experiments/data/*
+*__pycache__
+results-data/*.pending*
+results-data/acp/*
+results-data/*.failed*
+results-data/save*
+results-data/averaging*
+results-plot/*.failed*
+results-plot/acp/*
+*temp*
