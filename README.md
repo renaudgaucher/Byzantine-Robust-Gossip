@@ -6,7 +6,7 @@ Code for ICML2025 paper.
 
 Our script derives from https://github.com/LPD-EPFL/robust-collaborative-learning.  The dataset manager part of the script only run on Linux machines. 
 
-We run our script with Python 3.12.3, and the outer librairies are in the config.txt file. Some library are mandatory (such as torch and networkx) and a lot of others are optionnal.
+We run our script with Python 3.12.3, and the outer librairies are in the config.txt file. 
 
 We list below the OS on which our scripts have been tested:
 * CentOS Linux release 7.7.1908
